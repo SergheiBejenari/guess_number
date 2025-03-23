@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.idea/
+*.vscode/
+*.swp
+venv/
+env/
+.venv/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Pipfile.lock
+poetry.lock
+guess_number.iml
