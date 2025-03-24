@@ -1,7 +1,7 @@
 import pytest
 
-from game.engine import GuessNumberGame
-from game.exceptions import RestartGameException, GiveUpException
+from src.game.engine import GuessNumberGame
+from src.game.exceptions import RestartGameException, GiveUpException
 
 
 # Test setup_game correctly sets values

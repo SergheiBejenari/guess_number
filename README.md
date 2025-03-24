@@ -9,7 +9,7 @@ The game gives you helpful feedback like "cold", "warm", "hot", and more, based 
 
 1. Run the game:
    ```bash
-   python -m cli.main
+   python -m src.cli.main
    ```
 
 2. Enter a **minimum** and **maximum** whole number for the range (e.g., 1–100).

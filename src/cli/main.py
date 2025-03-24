@@ -1,5 +1,5 @@
-from game.engine import GuessNumberGame
-from game.messages import welcome_message
+from src.game.engine import GuessNumberGame
+from src.game.messages import welcome_message
 
 
 def main():

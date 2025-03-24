@@ -1,8 +1,8 @@
 import random
 
-from game.exceptions import RestartGameException, GiveUpException
-from game.input_utils import get_number_range
-from game.messages import success_message, hint_message, temperature_hint
+from src.game.exceptions import RestartGameException, GiveUpException
+from src.game.input_utils import get_number_range
+from src.game.messages import success_message, hint_message, temperature_hint
 
 
 class GuessNumberGame:
